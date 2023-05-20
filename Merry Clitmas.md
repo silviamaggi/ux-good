@@ -8,4 +8,4 @@ It’s fun, and normalises seeing clitorises. I mean, penises are everywhere: th
 
 Not everyone use mobile phones with their fingers, so it’s better not to invite people to *tap*. *Unwrap the gifts* (or something to that effect) works just fine.
 
-![Modal window in Clue app that takes you to an e-commerce site](clit.png "something")
+![Modal window in Clue app that takes you to an e-commerce site](clit.png)

@@ -6,6 +6,6 @@ It’s fun, and normalises seeing clitorises. I mean, penises are everywhere: th
 
 ## Accessibility
 
-Not everyone use mobile phones with their fingers, so it’s better not to invite people to *tap*. *Unwrap the gifts* (or something to that effect) works just fine.
+The button says: *Tap to unwrap*. Not everyone use mobile phones with their fingers, so it’s better not to invite people to *tap*. *Unwrap the gifts* (or something to that effect) works just fine.
 
-![Modal window in Clue app that takes you to an e-commerce site](./assets/clit.png)
+![Modal window in Clue app that takes you to an e-commerce site. The illustration is that of a clitoris with Christmas lights and a scarf](./assets/clit.png)

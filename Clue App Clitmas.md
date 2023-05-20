@@ -1,4 +1,4 @@
-# Clue App Clitmas
+# Merry Clitmas
 
 It’s fun, and normalises seeing clitorises. I mean, penises are everywhere: they’re even found as pasta shapes. Make clit-shaped pasta already! 
 

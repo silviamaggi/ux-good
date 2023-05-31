@@ -8,6 +8,6 @@ The text "Reduced-motion is off" makes it impossible to misunderstand. Toggles a
 
 From the article [See your identity pieced together from stolen data](https://www.abc.net.au/news/2023-05-18/data-breaches-your-identity-interactive/102175688) on ABC News
 
-[Spotted by Phil Sherry, seen on Mastodon](https://indieweb.social/@philsherry@home.social/110397186223695094)
+Source: [Phil Sherry, seen on Mastodon](https://indieweb.social/@philsherry@home.social/110397186223695094)
 
 #Accessibility #Toggle #Labels

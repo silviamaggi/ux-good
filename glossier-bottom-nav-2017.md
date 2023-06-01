@@ -9,6 +9,6 @@ In 2017, Glossier abandoned the hamburger menu.
 
 ![Animation showing how Glossier’s bottom navigation worked](./assets/glossier-bottom-nav.gif)
 
-Source: article [Glossier’s Mobile Navigation](https://medium.com/glossier/glossiers-mobile-navigation-4a944e65b0b7) on Medium — previously mentioned in the post [# Responsive design at 10](https://silviamaggidesign.com/design-digested/responsive-design-at-ten/)
+Source: article [Glossier’s Mobile Navigation](https://medium.com/glossier/glossiers-mobile-navigation-4a944e65b0b7) on Medium — previously mentioned in the post [Responsive design at 10](https://silviamaggidesign.com/design-digested/responsive-design-at-ten/)
 
 #UX #Navigation

@@ -8,6 +8,6 @@ Its initial purpose it to help people keep the distance, as stated at the top. W
 
 At the moment I took the picture, there were 0 toilets available for men, and 4 for women. Which is nice to see, considering it’s usually the opposite[^1]. 
 
-## Note
+## Notes
 
 [^1]: [It really is a man's world: How everyday design excludes women](https://www.bbc.co.uk/programmes/articles/1rcgjxPKJRGrZcTsX2hHwTj/it-really-is-a-mans-world-how-everyday-design-excludes-women)

@@ -2,7 +2,7 @@
 
 The display outside the toilets located in the Terminal 1 check-in area was certainly installed after 2020. 
 
-Its initial purpose it to help people keep the distance, as stated at the top. What it does is the let people know when to stay outside is there aren’t any free toilets, which immensely useful even without COVID.
+Its initial purpose is to help people keep the distance, as stated at the top. What it also does is to let people know when to stay outside if there aren’t any free toilets, which is immensely useful even without COVID.
 
 ![The display show, in two languages (Italian and English) how many toilets are available for men and women](./assets/malpensa-toilets.jpg)
 

@@ -10,9 +10,13 @@ On screen:
 2. Things you’ve done
 3. Button to continue and enter the delivery address
 
+## Let’s start
+
 ![Screen number 1: what you need to do next, things you've done](./assets/wise-1.jpg)
 
 ***
+
+## A few details needed
 
 What's your delivery address?
 
@@ -20,11 +24,15 @@ What's your delivery address?
 
 ***
 
-Done. Your card is on its way. There’s the date of possible delivery and the fact that the card’s details are ready to use.
+## Done
+
+Your card is on its way. There’s the date of possible delivery and the fact that the card’s details are ready to use.
 
 ![Thank you page](./assets/wise-3.jpg)
 
-Let people know what’s next.
+---
+
+## Let people know what’s next
 
 ![Thank you page](./assets/wise-4.jpg)
 

@@ -30,7 +30,7 @@ Your card is on its way. There’s the date of possible delivery and the fact th
 
 ![Thank you page](./assets/wise-3.jpg)
 
----
+***
 
 ## Let people know what’s next
 

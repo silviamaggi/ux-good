@@ -18,7 +18,7 @@ On screen:
 
 What's your delivery address?
 
-![Screen 2](./assets/wise-2.jpg)
+![Screen number 2: add your delivery address](./assets/wise-2.jpg)
 
 ## Done
 
@@ -28,6 +28,6 @@ Your card is on its way. There’s the date of possible delivery and the fact th
 
 ## Let people know what’s next
 
-![Thank you page](./assets/wise-4.jpg)
+![A page explaining what happens next: use it with Apple Pay or Google Pay, see the card details in the app, activate the card when it arrives, the address where it’s going to be delivered](./assets/wise-4.jpg)
 
 #UX 

@@ -1,9 +1,9 @@
 # Help selecting dates on a calendar
 
-![toothpaste tube with a table showing the ingredients, where they come from, and what they do](./assets/calendar-date-selection.jpg)
+![A section of a calendar on a website narrowing down the choices by suggesting: "Today, Yesterday, This week, Last week, This month, Last month, This year, Last year"](./assets/calendar-date-selection.jpg)
 
-The most useful INCI list I found so far on a personal care product package. I’ve never encountered it in person, though, and I wish more companies will follow the example. Brand unknown.
+Provided that the implementation of a similar solution will depend on your users’ needs, the one presented here seems useful to narrow down the choice of dates.
 
 Source: unknown, unfortunately.
 
-#Labels
+#UX #Calendar #DateSelection
